@@ -4,7 +4,7 @@
 
 基于 react 的 3d 标签云, [在线 demo](https://jyoketsu.github.io/3d-tag-cloud-for-react-withclick/)
 
-原作者地址：https://github.com/crazylxr/3d-tag-cloud-for-react
+原作者地址：[https://github.com/crazylxr/3d-tag-cloud-for-react](https://github.com/crazylxr/3d-tag-cloud-for-react)
 在此基础上将标签参数改为了对象数组并添加了点击事件以满足自己项目需要  
 感谢[crazylxr](https://github.com/crazylxr)
 
@@ -44,9 +44,9 @@ class Demo extends React.Component {
     return (
       <div
         style={{
-          width: "100%",
-          height: "100%",
-          padding: "150px"
+          width: "300px",
+          height: "300px",
+          padding: "100px"
         }}
       >
         <TagCloud

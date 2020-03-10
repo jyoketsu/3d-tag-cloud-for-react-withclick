@@ -30,7 +30,7 @@ export default class Demo1 extends React.Component {
 		tagName = [...tagName, ...tagName, ...tagName];
 
 		return (
-			<div style={{ width: "100%", height: "100%", padding: "150px" }}>
+			<div style={{ width: "300px", height: "300px", padding: "100px" }}>
 				<TagCloud
 					tagName={tagName}
 					radius={200}
