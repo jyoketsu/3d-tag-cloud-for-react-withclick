@@ -1,6 +1,6 @@
 {
-  "name": "react3dtagcloud",
-  "version": "0.2.1",
+  "name": "react3dtagcloud_withclick",
+  "version": "0.0.1",
   "description": "基于 react 的 3d 标签云",
   "repository": "crazylxr/3dtagcloudforeact",
   "main": "lib/index.js",
