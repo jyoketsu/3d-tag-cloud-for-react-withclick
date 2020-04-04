@@ -144,7 +144,8 @@ export default class TagCloud extends React.Component {
 	render() {
 		const containerStyle = {
 			width: "100%",
-			heght: "100%"
+			heght: "100%",
+			userSelect: "none"
 		};
 
 		const wrapperStyle = {
